@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package letscode1;
+package minstoyears;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author M N Khakse
  */
-public class LetsCode1 {
+public class MinsToYears {
 
     /**
      * @param args the command line arguments
