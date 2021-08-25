@@ -10,10 +10,7 @@ import java.util.Scanner;
 
 
 
-/**
- *
- * @author M N Khakse
- */
+
 public class MinsToYears {
 
     /**
